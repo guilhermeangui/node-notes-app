@@ -1,9 +1,10 @@
 # node-notes-app
 Simple NodeJS notes app (for studies)
 
+
 ---
 
-# Usage:
+## Usage:
 ### Add a note:
 node app.js add --title="Receita de bolo ainda melhor de vdd"  --body="Minha receita precisa de 8 ovos e acucar"
 
