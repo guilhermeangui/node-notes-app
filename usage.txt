@@ -1,0 +1,16 @@
+Add a note:
+	node app.js add --title="Receita de bolo ainda melhor de vdd"  --body="Minha receita precisa de 8 ovos e acucar"
+
+List notes:
+	node app.js list
+
+Read a note:
+	node app.js read --title="Receita de bolo ainda melhor de vdd"    
+
+Delete a note:
+	node app.js del --title="Receita de bolo ainda melhor de vdd"    
+
+Debug:
+	- Adicionar debugger
+	- Adicionar "inspect" antes do comando (ex: node inspect app.js add --tit(...))
+	- Abrir no chrome://inspect/#devices 
